@@ -11,7 +11,7 @@ um site onde os repositórios Git podem ser guardados e compartilhados.
 ## Repositório 
 a pasta onde ficam os arquivos do projeto e o histórico de versões.
 
-##gitignore
+## gitignore
 arquivo que indica quais itens o Git deve ignorar, evitando enviar arquivos temporários ou pessoais que só poluem o projeto.
 
 ## README.md
